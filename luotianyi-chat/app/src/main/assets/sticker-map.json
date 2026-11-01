@@ -1,0 +1,63 @@
+{
+ "happy": [
+  "stickers/happy_1.gif",
+  "stickers/happy_2.gif"
+ ],
+ "shy": [
+  "stickers/shy_1.gif",
+  "stickers/shy_2.gif"
+ ],
+ "love": [
+  "stickers/love_1.gif"
+ ],
+ "sad": [
+  "stickers/sad_1.gif",
+  "stickers/sad_2.gif"
+ ],
+ "angry": [
+  "stickers/angry_1.gif",
+  "stickers/angry_2.gif"
+ ],
+ "think": [
+  "stickers/think_1.gif",
+  "stickers/think_2.gif"
+ ],
+ "eat": [
+  "stickers/eat_1.gif",
+  "stickers/eat_2.gif"
+ ],
+ "dance": [
+  "stickers/dance_1.gif",
+  "stickers/dance_2.gif"
+ ],
+ "cheer": [
+  "stickers/cheer_1.gif",
+  "stickers/cheer_2.gif"
+ ],
+ "sleepy": [
+  "stickers/sleepy_1.gif"
+ ],
+ "greet": [
+  "stickers/greet_1.gif"
+ ],
+ "nope": [
+  "stickers/nope_1.gif"
+ ],
+ "money": [
+  "stickers/money_1.gif"
+ ],
+ "game": [
+  "stickers/game_1.gif",
+  "stickers/game_2.gif"
+ ],
+ "cute": [
+  "stickers/cute_1.gif",
+  "stickers/cute_2.gif"
+ ],
+ "sing": [
+  "stickers/sing_1.gif"
+ ],
+ "wow": [
+  "stickers/wow_1.gif"
+ ]
+}
